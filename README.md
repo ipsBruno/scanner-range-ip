@@ -23,7 +23,8 @@ Ao abrir o projeto você deverá ver uma tela parecida com esta:
 
 **PS:** Ele não vai escanear as faixas de forma aleatória, mas sim de forma sequencial, todas ELAS
 
-
+Lembre-se de instalar a biblioteca "requests" usada no projeto:<br/>
+npm install request --save
 
 ## Contato
 
