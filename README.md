@@ -5,7 +5,7 @@ Scan IP ranges to find servers online
 ## O que é
 Este projeto feito em NodeJS escaneia todos IPs de uma determinada faixa colocando em um arquivo o resultado dos endereços que foram encontrados on-line
 
-Pode ser usado como forma de scannear a rede atrás de roteadores vulneráveis ou desatualizados, endereços de câmeras, ips direto para website entre outros dispositivos IoT
+Pode ser usado como forma de scannear a rede atrás de roteadores vulneráveis ou desatualizados, endereços de câmeras de segurança, ips direto para website, entre outros dispositivos IoT dentro da rede (utilizando essa base você pode desenvolver algo como o Mirai-bot ou Shodan por exemplo)
 
 Usando as faixas de IP do Brasil temos um total de 75 milhões de faixas de endereços pra ser escaneada!
 
